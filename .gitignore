@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+archive/
+data/
+out/*.rds
+out/*.RData
+run_*
+scripts/*data*
+scripts/*.out
